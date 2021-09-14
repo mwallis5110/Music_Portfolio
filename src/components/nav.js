@@ -1,7 +1,7 @@
 import React from "react";
 // import ____ from 'react-bootstrap/';
-import "./songs.css";
+import "./header.css";
 
-export default function Songs() {
+export default function Nav() {
   return <div className="container"></div>;
 }
