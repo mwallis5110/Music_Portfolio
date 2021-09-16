@@ -1,12 +1,12 @@
 import React from 'react';
 
+import Beats from "./pages/songs/beats";
 import Bio from './pages/bio/bio'
 import Contact from './pages/contact/contact';
 // import Navigation from './components/Navigation';
 import PageNav from './components/nav/nav';
 import FirstPage from './pages/firstPage/firstPage';
 import Services from './pages/services/services';
-import Songs from './pages/songs/songs';
 
 import './App.css';
 
@@ -15,7 +15,7 @@ export default function App() {
     <div>
       <PageNav />
       <FirstPage />
-      <Songs />
+      <Beats />
       <Services />
       <Bio />
       <Contact />

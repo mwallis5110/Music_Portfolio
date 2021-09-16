@@ -3,5 +3,5 @@ import React from "react";
 import "./services.css";
 
 export default function Services() {
-  return <div className="container"></div>;
+  return <div className="beats"></div>;
 }

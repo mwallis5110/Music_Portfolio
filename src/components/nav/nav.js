@@ -10,7 +10,7 @@ export default function PageNav() {
       <Container>
         <Nav className="me-auto">
           {/* <Nav.Link href="#home">Home</Nav.Link> */}
-          <Nav.Link href="#music">Music</Nav.Link>
+          <Nav.Link href="#beats">Beats</Nav.Link>
           <Nav.Link href="#services">Services</Nav.Link>
           <Nav.Link href="#about">About Us</Nav.Link>
           <Nav.Link href="#contact">Get In Touch</Nav.Link>

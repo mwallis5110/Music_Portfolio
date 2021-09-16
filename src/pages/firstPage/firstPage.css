@@ -6,20 +6,24 @@
   z-index: "-1";
 } */
 
-.logoText {
-  display: block;
-  background: white;
+/* .logoDiv {
   position: relative;
+  width: 250px;
   z-index: 1;
-  font-size: 100px;
-  bottom: 350px;
-  width: 300px;
-  text-align: center;
-}
+  bottom: 200px;
+  display: flex;
+  justify-content: center;
+} */
 
-.logo {
+/* .logo {
+  /* display: block;
+  background: transparent; */
+  /* width: 100px;
+} */
+
+/* .logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-}
+}  */
