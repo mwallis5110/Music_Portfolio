@@ -22,7 +22,7 @@ export default function Contact() {
               width: "60px",
               height: "60px",
               marginLeft: "60px",
-              marginRight: "100px",
+              marginRight: "95px",
             }}
           ></img>
           <img
@@ -42,7 +42,7 @@ export default function Contact() {
               width: "60px",
               height: "60px",
               marginRight: "60px",
-              marginLeft: "90px",
+              marginLeft: "95px",
             }}
           ></img>
         </Col>
