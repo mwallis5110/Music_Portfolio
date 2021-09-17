@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Beats from "./pages/songs/beats";
+import Beats from "./pages/beats/beats";
 import Bio from './pages/bio/bio'
 import Contact from './pages/contact/contact';
 // import Navigation from './components/Navigation';

@@ -7,7 +7,7 @@ export default function Beats() {
     <div className='trackList'>
       <h1>Tracks</h1>
       <h4>Image only for demonstration. The actual track list will be from an API call</h4>
-      <img src={Tracks}></img>
+      <img src={Tracks} alt='tracks placeholder pic'></img>
     </div>
   );
 }

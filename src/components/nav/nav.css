@@ -1,12 +1,12 @@
-.navbar {
-    position: absolute;
+.topNav {
+    position: absolute; 
     display: inline-block;
     background: transparent;
+    z-index: 1;
 }
 
-.nav-link {
-    color: white;
+.links {
     padding: 30px;
-    font-size: 40px;
+    font-size: 35px;
     text-decoration: none;
 }

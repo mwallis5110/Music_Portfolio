@@ -1,9 +1,9 @@
 import React from "react";
-import ReactPlayer from "react-player";
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col'
+// import ReactPlayer from "react-player";
+// import Row from 'react-bootstrap/Row';
+// import Col from 'react-bootstrap/Col'
 import MainVid from '../../assets/sample1.mp4';
-import Logo from '../../assets/logo.png';
+// import Logo from '../../assets/logo.png';
 
 import "./firstPage.css";
 
