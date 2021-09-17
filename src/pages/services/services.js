@@ -1,7 +1,7 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
 import Mixing from '../../assets/mixing.png';
-import Recording from "../../assets/recording.png";
+// import Recording from "../../assets/recording.png";
 import General from "../../assets/general2.png";
 
 import "bootstrap/dist/css/bootstrap.min.css";

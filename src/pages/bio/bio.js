@@ -5,7 +5,6 @@ import Col from 'react-bootstrap/Col';
 import Card from "react-bootstrap/Card";
 import CardImg from 'react-bootstrap/CardImg';
 
-
 import Headshot1 from '../../assets/headshot1.png';
 import Headshot2 from "../../assets/headshot2.png";
 import Headshot3 from "../../assets/headshot3.png";
@@ -15,24 +14,32 @@ import './bio.css';
 
 export default function Bio() {
     return (
-      <div className='container'>
+      <div className="container" style={{
+        marginTop: '50px',
+      }}>
         <h1 className="team">Our Team</h1>
         <Row>
-          <Col sm={12} lg={6} xl={4}>
-            <Card style={{ width: "14rem" }}>
-              <Card.Img
-                width="100%"
-                src={Headshot1}
-                alt="_____'s headshot"
-              />
+          <Col
+            sm={12}
+            lg={6}
+            xl={4}
+            style={{
+              width: "15rem",
+              margin: "25px",
+            }}
+          >
+            <Card
+              style={{
+                width: "15rem",
+              }}
+            >
+              <Card.Img width="100%" src={Headshot1} alt="_____'s headshot" />
               <Card.Body>
                 <Card.Title>Name Goes Here</Card.Title>
                 <Card.Text>
                   Bio Goes Here. Lorem ipsum dolor sit amet, consectetur
                   adipiscing elit. Curabitur vulputate metus vel lacus efficitur
-                  tristique. Praesent porta facilisis consectetur. Nunc a mauris
-                  sed libero posuere finibus. Morbi ultricies eros eu est
-                  pharetra dignissim.
+                  tristique. Praesent porta facilisis consectetur. 
                 </Card.Text>
                 {/* <Card.Link href=' '> */}
 
@@ -41,8 +48,20 @@ export default function Bio() {
             </Card>
           </Col>
 
-          <Col sm={12} lg={6} xl={4}>
-            <Card style={{ width: "14rem" }}>
+          <Col
+            sm={12}
+            lg={6}
+            xl={4}
+            style={{
+              width: "15rem",
+              margin: "25px",
+            }}
+          >
+            <Card
+              style={{
+                width: "15rem",
+              }}
+            >
               <CardImg
                 top
                 width="100%"
@@ -54,9 +73,7 @@ export default function Bio() {
                 <Card.Text>
                   Bio Goes Here. Lorem ipsum dolor sit amet, consectetur
                   adipiscing elit. Curabitur vulputate metus vel lacus efficitur
-                  tristique. Praesent porta facilisis consectetur. Nunc a mauris
-                  sed libero posuere finibus. Morbi ultricies eros eu est
-                  pharetra dignissim.
+                  tristique. Praesent porta facilisis consectetur. 
                 </Card.Text>
                 {/* <Card.Link href=' '> */}
 
@@ -65,8 +82,20 @@ export default function Bio() {
             </Card>
           </Col>
 
-          <Col sm={12} lg={6} xl={4}>
-            <Card style={{ width: "14rem" }}>
+          <Col
+            sm={12}
+            lg={6}
+            xl={4}
+            style={{
+              width: "15rem",
+              margin: "25px",
+            }}
+          >
+            <Card
+              style={{
+                width: "15rem",
+              }}
+            >
               <CardImg
                 top
                 width="100%"
@@ -78,9 +107,7 @@ export default function Bio() {
                 <Card.Text>
                   Bio Goes Here. Lorem ipsum dolor sit amet, consectetur
                   adipiscing elit. Curabitur vulputate metus vel lacus efficitur
-                  tristique. Praesent porta facilisis consectetur. Nunc a mauris
-                  sed libero posuere finibus. Morbi ultricies eros eu est
-                  pharetra dignissim.
+                  tristique. Praesent porta facilisis consectetur. 
                 </Card.Text>
                 {/* <Card.Link href=' '> */}
 
@@ -89,8 +116,20 @@ export default function Bio() {
             </Card>
           </Col>
 
-          <Col sm={12} lg={6} xl={4}>
-            <Card style={{ width: "14rem" }}>
+          <Col
+            sm={12}
+            lg={6}
+            xl={4}
+            style={{
+              width: "15rem",
+              margin: "25px",
+            }}
+          >
+            <Card
+              style={{
+                width: "15rem",
+              }}
+            >
               <CardImg
                 top
                 width="100%"
@@ -102,9 +141,7 @@ export default function Bio() {
                 <Card.Text>
                   Bio Goes Here. Lorem ipsum dolor sit amet, consectetur
                   adipiscing elit. Curabitur vulputate metus vel lacus efficitur
-                  tristique. Praesent porta facilisis consectetur. Nunc a mauris
-                  sed libero posuere finibus. Morbi ultricies eros eu est
-                  pharetra dignissim.
+                  tristique. Praesent porta facilisis consectetur. 
                 </Card.Text>
                 {/* <Card.Link href=' '> */}
 
