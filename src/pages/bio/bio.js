@@ -171,7 +171,7 @@ export default function Bio() {
               /> */}
             <Card.Body>
               <h1>About Us</h1>
-              <h4> **Maybe throw a picture in here to the side</h4>
+              <h5> *****Instead of this carousel, I'm thinking I might have the "About us" and "our team" elemenets slide in from opposite sides of the page and show up at the same time. TBD</h5>
               <Card.Text className="aboutTeam">
                 Team Bio Goes Here. Lorem ipsum dolor sit amet, consectetur
                 adipiscing elit. Pellentesque ante justo, pretium sed molestie
