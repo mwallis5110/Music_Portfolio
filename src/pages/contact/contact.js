@@ -1,6 +1,6 @@
 import React from "react";
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/col";
+import Col from "react-bootstrap/Col";
 import "./contact.css";
 
 import Instagram from '../../assets/instagram.png';
